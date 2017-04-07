@@ -20,3 +20,5 @@ docker-compose up --build
 ```
 
 The frontend service (service-a) will be available at http://localhost:8080.
+
+Test
